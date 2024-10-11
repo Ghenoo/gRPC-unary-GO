@@ -1,6 +1,6 @@
 # gRPC Unário em GO
 
-- Projeto simples com client/server, onde os dois conseguem se comunicar utilizando o formato unário, onde enviando apenas uma request e retornando uma response, você termina a comunicação, coisa que vemos naturalmente em um rest.
+- Projeto simples com client/server, onde os dois conseguem se comunicar utilizando o formato unário, onde enviando apenas uma request e retornando uma response, você termina a comunicação, coisa que vemos em um rest.
 
 
 ## Instalação 
